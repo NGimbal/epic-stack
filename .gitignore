@@ -7,6 +7,8 @@ node_modules
 .cache
 
 /prisma/data.db
+/prisma/data.db-wal
+/prisma/data.db-shm
 /prisma/data.db-journal
 /tests/prisma
 
